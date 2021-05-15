@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**vikijai/vikijai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# Hi i am Vignesh,
+          I am passionate about being web developer. I am looking forward to be an active member of a team that helps the company grow and help in their professional and personal life too.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ const myProfile={
+      TechnologyStack:['HTML','CSS','Javascript','Rectjs','Firebase','C'],
+      
+ };
