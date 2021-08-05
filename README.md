@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -10,7 +10,7 @@
 <p>I am passionate about being a front-end developer. I am looking forward to be an active member of a team that helps the company grow and help in their professional and personal life too.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vignesh-s-01942018b/"></a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vignesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vignesh-s-01942018b/"><i class="fab fa-github"></i></a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vignesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
