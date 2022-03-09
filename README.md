@@ -1,13 +1,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **back-end technologies**
+- 🌱 I’m currently learning **back-end technology**
 
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **vigneshjai98@gmail.com**
-<p>I am passionate about being a front-end developer. I am looking forward to be an active member of a team that helps the company grow and help in their professional and personal life too.</p>
+<p>I have 2 yr of experience in front-end developement and databases and I am more focusing on react js and node js,also i am looking forward to be an active member of a team that helps the company grow and help in their professional and personal life too.</p>
 <h3 align="left">Connect with me:</h3>
 <div>
             <a href="https://www.linkedin.com/in/vignesh-s-01942018b/">Linkedin</a>
