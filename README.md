@@ -7,7 +7,7 @@
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **vigneshjai98@gmail.com**
-<p>I have 2 yr of experience in front-end developement and databases and I am more focusing on react js and node js,also i am looking forward to be an active member of a team that helps the company grow and help in their professional and personal life too.</p>
+<p>I am a tech-enthusiast, well-focused in front-end developement with 2+ yr of experience and I am more focusing on react js and node js, I am passionate about building fully functional web-applications. Also i am active member of a team that helps the company grow and help in their professional and personal life too.</p>
 <h3 align="left">Connect with me:</h3>
 <div>
             <a href="https://www.linkedin.com/in/vignesh-s-01942018b/">Linkedin</a>
