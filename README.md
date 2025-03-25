@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">Fullstack developer</h3>
-
-- 🌱 I’m currently learning **back-end technology**
+<h3 align="center">FrontEnd developer</h3>
 
 - 💬 Ask me about **javascript**
 
