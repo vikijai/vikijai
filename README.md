@@ -5,7 +5,7 @@
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **vigneshjai98@gmail.com**
-<p>I am a tech-enthusiast, well-focused in front-end developement with 3+ yr of experience and I am more focusing on react js and node js, I am passionate about building fully functional web-applications. Also i am active member of a team that helps the company grow and help in their professional and personal life too.</p>
+<p>I am a tech-enthusiast, well-focused in front-end developement with 6 years of experience building scalable, responsive web applications using React, TypeScript, Redux, and Micro Frontend architecture. Proven record of cutting issue-diagnosis time, accelerating delivery with reusable component libraries, and maintaining high code quality through Jest-based testing and CI/CD (Jenkins, SonarQube).</p>
 <h3 align="left">Connect with me:</h3>
 <div>
             <a href="https://www.linkedin.com/in/vignesh-s-01942018b/">Linkedin</a>
